@@ -1,0 +1,1092 @@
+.p-l-0 {
+    padding-left: 0;
+}
+
+.p-r-0 {
+    padding-right: 0;
+}
+
+.p-r-5 {
+    padding-right: 5px;
+}
+
+.content .card {
+    margin-bottom: 10px !important;
+}
+
+div#idofpjaxcontainer {
+    padding: 20px;
+}
+
+.card-body.card .grid-view .summary {
+    padding: 10px 0;
+}
+
+div#idofpjaxcontainer .card-header+.list-group .list-group-item:first-child {
+    border-top: 1px solid #ddd;
+}
+
+div#idofpjaxcontainer .card-body.card .form-group button,
+div#idofpjaxcontainer .card-body.card .form-group a {
+    overflow: hidden
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered {
+    margin: -5px;
+}
+
+.btn-outline-secondary:hover {
+    color: #FFFFFF !important;
+}
+
+.ntd-summary-table table.table.table-selectiondetail.performed {
+    border: 1px solid #002060;
+    margin: 5px 0;
+    min-height: 390px;
+}
+
+.ntd-summary-table {
+    margin: 10px 0 0 0;
+}
+
+.ntd-summary-table span {
+    margin: 5px 0;
+    display: inline-block;
+}
+
+/**custom table left-right css***/
+
+.width-bigSm {
+    width: 73%;
+    display: inline-block;
+    position: absolute;
+    /* left: 510px; */
+    transition: 0.5s;
+    right: 0;
+    padding-right: 10px;
+}
+
+.left-sideDiv {
+    width: 23%;
+    display: inline-block;
+    transition: 0.5s;
+    left: 70px;
+    position: absolute;
+}
+
+.left-sideDiv.bgsm-side.left-table>[class*=col] {
+    /* width: 100% !important; */
+    max-width: 100%;
+}
+a.addFieldNdt.btn-sm.btn-success {
+    padding: 7px 5px;
+}
+.left-sideDiv.bgsm-side.left-table.info-table>[class*=col] {
+    /* width: 100% !important; */
+    max-width: 41.66667%;
+}
+
+.left-sideDiv.bgsm-side.left-table.info-table {
+    width: 56%;
+}
+
+.pipe-listbarIcon a {
+    color: #fff;
+}
+
+.pipe-listbarIcon {
+    float: left;
+    margin-right: 10px;
+}
+
+.left-sideDiv.bgsm-side.shaded {
+    position: absolute;
+    left: -100%;
+}
+
+.width-bigSm.bgsm-side.shaded {
+    width: 96% !important;
+    /* left: 70px !important; */
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-faded.ds-none {
+    display: none;
+}
+
+/* i.ft-toggle-left.toggle-icon {
+    display: none;
+}
+i.toggle-icon.ft-toggle-right {
+    display: none;
+} */
+
+table.table.table-responsive.matrix-table thead.thead-default tr:nth-child(1) {
+    border-color: #ddd !important;
+}
+
+.savebtn-info {
+    padding: 0 15px;
+    clear: both;
+}
+
+table.table.table-responsive.matrix-table tr td {
+    padding: 5px 3px;
+    text-align: center;
+}
+
+form#w0 .row [class*=col] {
+    padding: 0 5px;
+}
+
+.modal-content {
+    overflow-x: auto;
+}
+
+.lang-icons {
+    padding: 10px 8px 10px 14px;
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+}
+
+.wrapper.nav-collapsed.menu-collapsed div#listproject .list-project select#basicSelect, .wrapper.nav-collapsed.menu-collapsed div#listlanguage .list-language select#langSelect {
+    padding: 0.375rem 1.75rem 0.375rem 0.75rem;
+    font-size: 0;
+}
+
+.wrapper.nav-collapsed div#listproject .list-project select#basicSelect, .wrapper.nav-collapsed div#listlanguage .list-language select#langSelect {
+    padding: 0.375rem 1.75rem 0.375rem 2.45rem;
+}
+
+.menu-collapsed .list-project,
+.list-project,
+.menu-collapsed .list-language,
+.list-language {
+    transition: 0.5s;
+}
+
+table.table.table-responsive.matrix-table tr td h3 {
+    margin-bottom: 5px;
+}
+
+.matrix-table td select {
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.matrix-table th,
+.matrix-table td {
+    font-weight: bold;
+}
+
+div#w2.grid-view table.table.table-striped.table-bordered tr th:nth-child(1),
+div#w2.grid-view table.table.table-striped.table-bordered tr td:nth-child(1) {
+    text-align: center;
+}
+
+div#w2.grid-view table.table.table-striped.table-bordered tr th:last-child,
+div#w2.grid-view table.table.table-striped.table-bordered tr td:last-child {
+    text-align: center;
+}
+
+.card-block ul.nav.nav-tabs li.active a {
+    background-color: #146c80;
+    color: #fff !important;
+}
+
+div#w1.grid-view table.table.table-striped.table-bordered tr th {
+    text-align: center;
+    padding: 5px;
+}
+
+div#w1.grid-view table.table.table-striped.table-bordered tr td {
+    font-size: 14px;
+}
+
+/* div#w1.grid-view table.table.table-striped.table-bordered tr td:nth-child(1) {
+    vertical-align: middle;
+} */
+
+div#w1.grid-view table.table.table-striped.table-bordered tr td {
+    vertical-align: middle;
+}
+
+div#w1.grid-view table.table.table-striped.table-bordered tr th {
+    vertical-align: top;
+    color: #009DA0;
+}
+
+span.glyphicon.glyphicon-pencil {
+    text-align: center;
+    display: block;
+}
+
+.card .card-block {
+    padding: 0.5rem 1rem 1.5rem;
+}
+
+div#w1.grid-view table.table.table-striped.table-bordered tr td button {
+    font-size: 0.775rem;
+}
+
+.anomaly-tabls {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.anomaly-tabls ul.nav.nav-tabs {
+    overflow-y: hidden;
+    white-space: nowrap;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+
+.form-group.field-welding-electrodes select#welding-electrodes~.select2-container {
+    display: inline;
+}
+
+.form-group.field-welding-electrodes .col-md-12 label.control-label {
+    display: block;
+}
+
+/* .select2-container--open .select2-dropdown {
+    left: 0;
+    top: 34px;
+} */
+
+.tab-width {
+    overflow: hidden;
+}
+
+.savebtn-info.p-0 {
+    padding: 0;
+}
+
+a.removeField.btn-sm.btn-danger.pull-right {
+    right: 20px !important;
+}
+
+/* .card-body:hover ~ * .has-success  select option
+.card-body:hover ~ .has-success  select option{
+    display:none;    
+} */
+
+/* .card h1.card-title, .card h2.card-title, .card h3.card-title, .card h4.card-title, .card h5.card-title, .card h6.card-title {
+  line-height: 40px;
+ 
+} */
+
+@media only screen and (min-width: 1599px) {
+    .d-xl-none {
+        display: block !important;
+    }
+}
+
+/**custom table left-right css***/
+
+@media only screen and (max-width: 1599px) {
+    .wrapper .content-header {
+        font-size: 1.3rem;
+    }
+    .card .card-body .px-3.py-3 {
+        padding: 1.1rem 1rem !important;
+    }
+    .card .card-body .px-3.py-3 .media .media-body.white h3 {
+        font-size: 1.40rem;
+        margin-top: 0.8rem;
+    }
+    .card .card-body .px-3.py-3 .media .media-right i {
+        font-size: 2.5rem !important;
+    }
+    div#idofpjaxcontainer {
+        padding: 10px;
+    }
+    .card h1.card-title,
+    .card h2.card-title,
+    .card h3.card-title,
+    .card h4.card-title,
+    .card h5.card-title,
+    .card h6.card-title {
+        font-size: 1.1rem;
+    }
+    .card-body.card .card-title a i {
+        font-size: 1em;
+    }
+    form#w0 label {
+        letter-spacing: normal !important;
+        font-size: 0.70rem;
+        line-height: normal;
+    }
+    .card-body.card ul.list-group li.list-group-item {
+        padding: 0.75rem 0.5rem;
+    }
+    .card-body.card ul.list-group li.list-group-item {
+        font-size: 14px;
+    }
+    div#idofpjaxcontainer .card-body.card div#w2 table.table.table-striped.table-bordered tr th {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    div#idofpjaxcontainer .card-body.card .form-group button,
+    div#idofpjaxcontainer .card-body.card .form-group a {
+        padding: 5px 6px;
+        font-size: 14px;
+        overflow: hidden
+    }
+    #w1 {
+        padding: 4px;
+    }
+    div#print-modal {
+        padding: 0 15px;
+    }
+    .content .card {
+        overflow: hidden;
+    }
+    form#w0 .col-md-12.clearfix span.select2.select2-container.select2-container--default {
+        width: 100% !important;
+    }
+    form#w0 .form-group.field-picture-image .col-md-7 {
+        overflow: hidden;
+    }
+    form#w0 .form-group.field-reception-transferred .col-md-5 {
+        max-width: 100% !important;
+        flex: 0 0 100%;
+    }
+    .left-sideDiv.bgsm-side.left-table.info-table>[class*=col] {
+        /* width: 100% !important; */
+        max-width: 40.66667%;
+    }
+    .left-sideDiv {
+        left: 60px;
+    }
+    .left-sideDiv.bgsm-side.left-table.info-table {
+        width: 57%;
+    }
+    .width-bigSm.bgsm-side.shaded {
+        width: 95% !important;
+    }
+    form label {
+        letter-spacing: normal;
+        line-height: normal;
+    }
+    .width-bigSm {
+        width: 72%;
+    }
+    .tab-width .form-group:nth-child(4) .col-md-6,
+    .tab-width .form-group:nth-child(5) .col-md-6,
+    .tab-width .form-group:nth-child(6) .col-md-6,
+    .tab-width .form-group:nth-child(7) .col-md-6 {
+        max-width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1399px) {
+    div#idofpjaxcontainer .row .card-body.card {
+        /* overflow: auto; */
+        width: 100%;
+    }
+    div#idofpjaxcontainer .row .card-body.card div#w1 table.table.table-striped.table-bordered,
+    div#idofpjaxcontainer .row .card-body.card div#w3 table.table.table-striped.table-bordered {
+        width: 1300px !important;
+    }
+    div#idofpjaxcontainer .row .card-body.card div#w1.grid-view {
+        overflow: auto;
+        width: 100%;
+    }
+    div#idofpjaxcontainer .row .card-body.card div#w2.grid-view {
+        width: 100%;
+    }
+    form#w0 label {
+        letter-spacing: normal;
+    }
+    div#idofpjaxcontainer .card-body.card div#w2 table.table.table-striped.table-bordered tr th {
+        font-size: 13px;
+        font-weight: 500;
+        padding: 5px;
+    }
+    div#idofpjaxcontainer .card-body.card .form-group button,
+    div#idofpjaxcontainer .card-body.card .form-group a {
+        padding: 5px 5px;
+        font-size: 12px;
+    }
+    form#w0 .form-group .col-md-6.clearfix,
+    .list-group li.list-group-item .col-md-6 {
+        width: 100%;
+        max-width: 100%;
+        flex: 0 0 100% !important;
+    }
+    div#w3.grid-view {
+        width: 100%;
+        overflow: auto;
+    }
+    div#w3 .row .col-md-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    div#w3.grid-view .col-md-6.right {
+        text-align: left;
+    }
+    .left-sideDiv.bgsm-side.left-table.info-table {
+        width: 56%;
+    }
+    table.table.table-responsive.matrix-table tr td {
+        padding: 5px 2px;
+    }
+    form#w0 .row [class*=col] {
+        padding: 0 3px;
+    }
+    form#w0 .form-group.field-picture-image .col-md-7 {
+        max-width: 72%;
+    }
+    div#print-body table tr th,
+    div#print-body table tr td {
+        font-size: 12px;
+    }
+    div#idofpjaxcontainer .landowner-details.div-landowner h4 {
+        font-size: 1.2rem;
+    }
+    .left-sideDiv.bgsm-side.left-table.info-table .card-body.card form#pipe-form [class*=col] {
+        max-width: 100% !important;
+    }
+    form label {
+        font-size: 0.65rem;
+        min-height: 20px;
+    }
+}
+
+@media only screen and (max-width: 1299px) {
+    .width-bigSm {
+        width: 71%;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .card-body.card form#w0 .form-group {
+        width: 48%;
+        float: left;
+        margin: 0 5px;
+    }
+    .card-body.card form#w0 .col-md-2.clearfix .form-group {
+        width: 100%;
+        margin: 0;
+    }
+    .modal-dialog.modal-lg h4#myModalLabel16 {
+        font-size: 20px;
+    }
+    div#print-body thead.thead-default tr th,
+    div#print-body table.table tr td {
+        font-size: 14px;
+    }
+    .left-sideDiv.bgsm-side.left-table.info-table>[class*=col] {
+        max-width: 100%;
+        padding: 0 15px !important;
+    }
+    .left-sideDiv.bgsm-side.left-table.info-table {
+        width: 98%;
+        display: block;
+        position: relative;
+        left: 10px;
+    }
+    .width-bigSm {
+        width: 100% !important;
+        display: block;
+        position: relative;
+        left: 0;
+        transition: 0.5s;
+        right: auto;
+        padding: 0 15px;
+    }
+    /* .width-bigSm.bgsm-side.right-table>.col-xl-12.col-lg-12.col-12.p-l-5 {
+        padding: 0 15px !important;
+    } */
+    .pipe-listbarIcon {
+        display: none;
+    }
+    .width-bigSm.bgsm-side.right-table>[class*=col] {
+        padding: 0 !important;
+    }
+    /* div#idofpjaxcontainer>.row [class*=col] {
+        padding: 0 15px !important;
+    } */
+    div#idofpjaxcontainer>.row .form-group.field-cable-colour {
+        padding: 0 !important;
+    }
+    .left-sideDiv {
+        left: 0 !important;
+    }
+    .left-sideDiv {
+        width: 100%;
+        display: block;
+        transition: 0.5s;
+        left: 70px;
+        position: relative;
+    }
+    #idofpjaxcontainer .left-sideDiv.bgsm-side.left-table.info-table .card-body.card form#pipe-form [class*=col-md-12] {
+        max-width: 100% !important;
+    }
+    .left-sideDiv.bgsm-side.left-table.info-table .card-body.card form#pipe-form [class*=col] {
+        max-width: 50% !important;
+    }
+    .left-sideDiv.bgsm-side.left-table>[class*=col] {
+        padding-right: 15px !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    nav.navbar.navbar-expand-lg.navbar-light.bg-faded.ds-none {
+        display: block;
+    }
+    .app-sidebar.hide-sidebar {
+        box-shadow: none !important;
+    }
+    .app-sidebar.show-sidebar {
+        display: none;
+    }
+    /* .app-sidebar {
+        display: none;
+    } */
+    .d-lg-none {
+        display: block !important;
+    }
+    .main-panel .main-content {
+        padding-left: 0;
+    }
+    .navbar .navbar-header {
+        padding-left: 0;
+    }
+}
+
+@media only screen and (min-width: 991px) {
+    /* .main-panel .main-content {
+    padding-left: 0 !important;
+} */
+}
+
+@media only screen and (max-width: 991px) {
+    div#idofpjaxcontainer .row .p-r-5 form#w0 .col-md-2.clearfix {
+        max-width: 100%;
+    }
+    div#idofpjaxcontainer .row .p-r-5 form#w0 .col-md-2.clearfix {
+        max-width: 100%;
+    }
+    div#print-body {
+        width: 100%;
+        overflow: hidden;
+    }
+    div#print-body .row.col-md-12 {
+        overflow: auto;
+    }
+    div#print-body .row.col-md-12 table.table {
+        width: 1200px;
+    }
+    /* div#idofpjaxcontainer .row .col-xl-9.col-lg-12.col-12.p-l-5 {
+        padding-left: 15px !important;
+    }
+    div#idofpjaxcontainer .row .col-xl-12.col-lg-12.col-12.p-r-5 {
+        padding-right: 15px !important;
+    }
+    div#idofpjaxcontainer .row .col-xl-12.col-lg-12.col-12.p-l-5 {
+        padding-left: 15px !important;
+    } */
+    div#w3.grid-view {
+        width: 100%;
+        overflow: auto;
+    }
+    .image-container {
+        clear: both;
+    }
+    /* div#idofpjaxcontainer>.row [class*=col] {
+        padding: 0 15px !important;
+    } */
+    .wrapper.nav-collapsed.menu-collapsed div#listproject .list-project select#basicSelect {
+        padding: 0.375rem 1.75rem 0.375rem 2.75rem;
+        font-size: 0;
+    }
+    #basicSelect.custom-select {
+        padding: 0.375rem 1.75rem 0.375rem 2.75rem;
+    }
+    .select2-container--default .select2-selection--multiple .select2-selection__rendered {
+        margin: -6px;
+        height: 30px;
+    }
+    /* .help-block {
+     height: 7px;
+     line-height: 5px;
+} */
+    .form-group.field-weldingrepair-electrodes [class*=col] span.select2.select2-container.select2-container--default {
+        display: block;
+        width: 100% !important;
+    }
+    form#w0 .form-group.field-weldingrepair-examination.required,
+    form#w0 .form-group.field-weldingrepair-repair_examination {
+        width: 98% !important;
+    }
+    table.table.table-responsive.matrix-table h3 {
+        font-size: 1.2rem;
+        margin-bottom: 0;
+        line-height: normal;
+    }
+    table.table.table-striped.table-bordered tr td {
+        font-size: 12px;
+    }
+    .left-sideDiv.bgsm-side.left-table.info-table {
+        width: 100%;
+    }
+    /* .width-bigSm {
+        padding: 0;
+    } */
+    section#minimal-statistics-bg .row [class*=col] {
+        flex: 0 0 49%;
+        max-width: 49%;
+    }
+    .field-pipe-comments,
+    .field-reception-transferred,
+    form#w0 .col-md-12,
+    form#pipe-cutting-form .col-md-12,
+    .form-group.field-bending-position,
+    .form-group.field-picture-image,
+    form#weldrepair-form .col-md-12,
+    .form-group.field-welding-electrodes,
+    form#welding-form .col-md-12,
+    form#trenching-form .col-md-12,
+    form#lowering-form .col-md-12,
+    form#backfilling-form .col-md-12,
+    form#reinstatement-form .col-md-12,
+    form#hydrotesting-form .col-md-12,
+    form#cleanguage-form .col-md-12,
+    form#cab-stringing-form .col-md-12 {
+        clear: both;
+    }
+    .form-group.field-cleargrade-comment {
+        width: 100% !important;
+    }
+    div#idofpjaxcontainer .row .card-body.card div#w1.grid-view .mb-1 .col-md-6.right {
+        max-width: 100%;
+        flex: 100%;
+    }
+    .field-reception-defacts select~span,
+    .form-group.field-stringing-defacts select~span,
+    .form-group.field-bending-defacts select~span,
+    .form-group.field-cutting-defacts select~span,
+    .form-group.field-ndt-ndt_defects select~span,
+    .form-group.field-cathodicprotection-comment,
+    .form-group.field-surveying-comment,
+    .form-group.field-cable-comment,
+    .form-group.field-landowner-comment {
+        width: 100% !important;
+    }
+    .navbar-header .navbar-toggle {
+        margin: 10px 15px 10px -10px;
+    }
+    .tab-width,
+    .tab-width-matrix {
+        max-width: 100%;
+        flex: 100%;
+    }
+    .tab-width-matrix .row [class*=col] {
+        max-width: 50%;
+        flex: 50%;
+    }
+    .p-r-15 {
+        padding-right: 15px !important;
+    }
+    .tab-width .form-group:nth-child(4) .col-md-6,
+    .tab-width .form-group:nth-child(5) .col-md-6,
+    .tab-width .form-group:nth-child(6) .col-md-6,
+    .tab-width .form-group:nth-child(7) .col-md-6 {
+        max-width: 50%;
+    }
+    .add-pedding {
+        padding-left: 15px !important;
+    }
+    .add-15-991 {
+        padding: 0 15px !important;
+    }
+    div#w1.grid-view .row>.col-md-6,
+    div#w2.grid-view .row>.col-md-6 {
+        max-width: 100%;
+        flex: 100%;
+        text-align: left;
+        margin: 3px 0;
+    }
+    .appro-title h1 {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    .detail-tabel-title {
+        font-size: 16px;
+       margin: 10px 0 10px 0;
+    }
+    .selectiondetail-tabel {
+        padding: 10px 10px 10px 10px;
+    }
+    .row.pro-loc-main {
+        width: 90%;
+        margin: 0 0 0 10px;
+    }
+    table.table.table-selectiondetail {
+        margin: 10px 0px;
+        width: 100%;
+    }
+    .performed-tabel-title {
+         font-size: 16px;
+        margin: 10px 0 10px 0;
+    }
+    table.table.table-selectiondetail.performed {
+        width: 100%;
+    }
+     .card h4.card-title{
+        font-size: 0.95rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    div#w1 .mb-1 .right {
+        text-align: left;
+    }
+    .width-bigSm.bgsm-side.shaded {
+        width: 100% !important;
+    }
+    
+}
+
+@media only screen and (max-width: 767px) {
+    /* div#idofpjaxcontainer .row .card-body.card div#w2.grid-view {
+        overflow: auto;
+    } */
+    .pipe-listbarIcon {
+        display: none;
+    }
+    div#w2.grid-view .row>[class*=col] {
+        width: 50% !important;
+    }
+    .tab-width .form-group:nth-child(4) .col-md-6,
+    .tab-width .form-group:nth-child(5) .col-md-6,
+    .tab-width .form-group:nth-child(6) .col-md-6,
+    .tab-width .form-group:nth-child(7) .col-md-6 {
+        max-width: 100%;
+    }
+    .field-picture-image {
+        overflow: hidden;
+    }
+    
+}
+
+@media only screen and (max-width: 580px) {
+    section#basic-tabs-components .card .card-block {
+        padding: 0.5rem 0 1.5rem;
+    }
+    .card-body.card form#w0 .form-group {
+        width: 98%;
+        float: none;
+        margin: 0;
+    }
+    div#idofpjaxcontainer {
+        padding: 0;
+    }
+    div#idofpjaxcontainer .card-body.card .form-group button i,
+    div#idofpjaxcontainer .card-body.card .form-group a i {
+        font-size: 20px;
+        padding: 0 10px;
+    }
+    div#idofpjaxcontainer .card-body.card .form-group button,
+    div#idofpjaxcontainer .card-body.card .form-group a {
+        font-size: 0px;
+    }
+    div#idofpjaxcontainer .card-body.card .form-group a {
+        font-size: 13px;
+    }
+    button.mr-1.mb-1.btn.btn-raised.btn-outline-danger.btn-min-width.black.pull-right {
+        font-size: 0;
+    }
+    div#idofpjaxcontainer .card-body.card .form-group a {
+        font-size: 0;
+    }
+    div#print-body .row.col-md-12 table.table {
+        width: 800px;
+    }
+    div#idofpjaxcontainer .row .col-xl-12.col-lg-12.col-12.p-r-5 {
+        padding-right: 10px !important;
+    }
+    form#w0 .row [class*=col] {
+        padding: 0 15px;
+    }
+    table.table.table-responsive.matrix-table {
+        margin: 0 auto;
+        width: 100%;
+        margin-bottom: 20px;
+        display: inline-table;
+    }
+    .card-body.card .signed-selected i {
+        margin-right: 0 !important;
+    }
+    .width-bigSm {
+        width: 100% !important;
+        display: block;
+        position: relative;
+        /* left: 10px; */
+        transition: 0.5s;
+        right: auto;
+        float: none;
+    }
+    .left-sideDiv.bgsm-side.left-table.info-table {
+        width: 100%;
+    }
+    div#w1.grid-view table.table.table-striped.table-bordered tr th {
+        font-size: 12px;
+    }
+    section#basic-tabs-components .card .card-block div#Pipe .table-responsive div#w1 table.table.table-striped.table-bordered tr td input,
+    section#basic-tabs-components .card .card-block div#Pipe .table-responsive div#w1 table.table.table-striped.table-bordered tr td select {
+        width: 130px;
+    }
+    section#basic-tabs-components .card .card-block div#Pipe div#w1 .right {
+        text-align: left;
+    }
+    div#w1.grid-view table.table.table-striped.table-bordered tr th {
+        vertical-align: middle;
+    }
+    div#w1.grid-view table.table.table-striped.table-bordered tr td {
+        font-size: 12px;
+        text-align: center;
+    }
+    div#idofpjaxcontainer .row .col-xl-12.col-lg-12.col-12.p-l-5 {
+        padding-left: 15px !important;
+    }
+    #w0,
+    #w1 {
+        padding: 4px;
+        border-radius: 3px;
+        margin-bottom: 6px;
+        font-size: 14px;
+    }
+    div#idofpjaxcontainer .card-body.card .form-group button, div#idofpjaxcontainer .card-body.card .form-group a {
+        padding: 3px 1px;
+    }
+    a.removeField.btn-sm.btn-danger.pull-right {
+        top: 3px !important;
+    }
+    a.addFieldNdt.btn-sm.btn-success {
+        padding: 7px 5px;
+    }
+    .form-control {
+        font-size: 0.75rem;
+    }
+    .field-holder select.form-control {
+        margin-bottom: 10px;
+    }
+    .check_boxes label {
+        display: inline-block;
+    }
+    .check_boxes input {
+        vertical-align: bottom;
+    }
+    .check_boxes h3 {
+        margin-bottom: 0;
+    }
+    .table-appro {
+        margin: 10px auto;
+    }
+    .logo-appro {
+        padding: 10px;
+    }
+    .detail-tabel-title {
+        font-size: 14px;
+    }
+    .project-name, .location-name {
+        font-size: 14px;
+    }
+    div#print-body table tr th, div#print-body table tr td {
+        font-size: 10px;
+    }
+    .card-header button {
+        font-size: 12px;
+        padding: 5px 7px;
+    }
+    div#print-body thead.thead-default tr th, div#print-body table.table tr td {
+        font-size: 10px;
+    }
+    .performed-tabel-text {
+       font-size: 12px;
+        margin: 20px 0 20px 0;
+    }
+    .remark-div {
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+    div#clearance .card .table-Approval-main .container {
+        padding: 0;
+    }
+    .table-summary .appro-title {
+        width: 100%;
+        padding: 5px 5px 5px 5px;
+    }
+    .table-summary .appro-title h1 {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .wrapper .content-header {
+        font-size: 1rem;
+    }
+    section#minimal-statistics-bg .row .mt-3,
+    section#minimal-statistics-bg .row .mt-3 .content-header {
+        margin-top: 0.5rem !important;
+    }
+    .card .card-body .px-3.py-3 {
+        padding: 0.5rem 0.5rem !important;
+    }
+    .card .card-body .px-3.py-3 .media .media-right i {
+        font-size: 2rem !important;
+    }
+    .card .card-body .px-3.py-3 .media .media-body.white h3 {
+        font-size: 1.10rem;
+    }
+    div#idofpjaxcontainer .row .card-body.card div#w2 table.table.table-striped.table-bordered {
+        width: 990px !important;
+    }
+    .modal-dialog.modal-lg h4#myModalLabel16 {
+        font-size: 16px;
+    }
+    div#idofpjaxcontainer .row .col-xl-12.col-lg-12.col-12.p-r-5 {
+        padding-right: 15px !important;
+    }
+    .card h1.card-title,
+    .card h2.card-title,
+    .card h3.card-title,
+    .card h4.card-title,
+    .card h5.card-title,
+    .card h6.card-title {
+        font-size: 0.9rem;
+    }
+    div#w2.grid-view .right {
+        text-align: left;
+    }
+    div#geo-location-twice-modal h4 {
+        font-size: 1.2rem;
+    }
+    div#w2.grid-view .row>[class*=col] {
+        width: 100% !important;
+    }
+    section#basic-tabs-components .card .card-block div#Pipe .table-responsive div#w1 .summary {
+        font-size: 14px;
+    }
+    .tab-width-matrix .row [class*=col] {
+        max-width: 100%;
+        flex: 100%;
+        padding: 0 0;
+    }
+    div#welding-line_type input {
+        vertical-align: bottom;
+    }
+    table.table.table-responsive.matrix-table {
+        display: block;
+    }
+    .matrix-table th, .matrix-table td {
+        font-size: 9px;
+    }
+    #legend {
+        margin: 5px;
+    }
+    span.map-lable.pull-left input {
+        margin-top: 0;
+        margin-right: 5px;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    /* div#idofpjaxcontainer .card-body.card .form-group a {
+        font-size: 12px;
+    } */
+    div#idofpjaxcontainer .card-body.card .form-group button i, div#idofpjaxcontainer .card-body.card .form-group a i {
+        font-size: 14px;
+    }
+
+}
+
+@media only screen and (max-width: 320px) {
+    div#idofpjaxcontainer .card-body.card .form-group a {
+        font-size: 13px;
+    }
+    div#idofpjaxcontainer .card-body.card .form-group button,
+    div#idofpjaxcontainer .card-body.card .form-group a {
+        padding: 5px 0px;
+    }
+    div#idofpjaxcontainer .card-body.card .form-group a {
+        font-size: 13px;
+    }
+    button.mr-1.mb-1.btn.btn-raised.btn-outline-danger.btn-min-width.black.pull-right {
+        font-size: 10px !important;
+        padding: 4px 3px !important;
+    }
+    div#idofpjaxcontainer .card-body.card .form-group a {
+        font-size: 10px;
+        padding: 4px 3px;
+    }
+}
+
+@media print {
+
+    
+    /* div#print-body table tr th, div#print-body table tr td {
+         font-size: 10rem !important;
+         font-family: Arial, Helvetica, sans-serif;
+    } */
+    body {
+        background-color: transparent;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 7pt;
+        color: #000000;
+        page-break-after: always;
+    }
+    .table-responsive.long {
+        overflow: hidden;
+    }
+    .long .table {
+        width: 960px;
+    }
+    .long .table tr {
+        border-bottom: 1px solid #ddd;
+    }
+    .table>thead>tr>th,
+    .table>tbody>tr>th,
+    .table>tfoot>tr>th,
+    .table>thead>tr>td,
+    .table>tbody>tr>td,
+    .table>tfoot>tr>td {
+        padding: 5px;
+        page-break-after: always;
+        
+    }
+    div#print-body .table-responsive table.table tbody tr th img {
+        width: 30px !important;
+        height: 30px !important;
+    }
+    td.weekly-report-date-label {
+        background: #002060 !important;
+        color: #fff !important;
+        font-weight: 500;
+    }
+    /* div#highcharts-mkb4cm5-0, div#highcharts-mkb4cm5-2 {
+        width: 1500px !important;
+    } */
+    #bruikleenovereenkomst {
+        width: 100%;
+        height: 500px;
+        box-shadow: inset 0 0 0 1000px #000;
+    }
+    svg.highcharts-root {
+        width: 1430px;
+    }
+    #print-body.table-Approval-main [class*="col-"] {
+        width: 50% !important;
+        float: left;
+    }
+    .col-print-6 {
+        width: 50%;
+        float: left;
+    }
+}
+
+@media print and (orientation:landscape) {}

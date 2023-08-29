@@ -1,0 +1,14 @@
+RewriteEngine on
+RewriteEngine On
+ 
+#RewriteCond %{HTTPS} off
+ 
+#RewriteCond %{HTTP:X-Forwarded-Proto} !https
+ 
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# If a directory or a file exists, use it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# Otherwise forward it to index.php
+RewriteRule . index.php

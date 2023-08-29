@@ -1,0 +1,23 @@
+.content {
+    padding: 0 !important;
+}
+
+.card-header {
+    display: none;
+}
+
+.card-body {
+    padding: 0 !important;
+}
+
+#production-report {
+    display: none;
+}
+
+.ntd-summary-table table.table.table-selectiondetail.performed {
+    height: 300px !important;
+}
+
+.wrapper.nav-collapsed .main-panel .main-content{
+    padding: 0px !important;
+}
